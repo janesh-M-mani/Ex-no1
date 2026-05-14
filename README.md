@@ -1,4 +1,4 @@
-# Arithmetic-operation-using-8086
+<img width="957" height="531" alt="Screenshot 2026-05-14 104846" src="https://github.com/user-attachments/assets/c0d81be7-8b22-4756-81e9-1add7929d1b0" /><img width="957" height="531" alt="Screenshot 2026-05-14 104846" src="https://github.com/user-attachments/assets/35d64592-b8ef-42fe-a816-39b481b634a1" /># Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
@@ -56,17 +56,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
-
+|    1200:12              |    1204:24               |
+|    1201:34              |    1205:68               |
+|    1202:12              |                          |
+|    1203:34              |                          |
+------------------------------------------------------
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="976" height="719" alt="image" src="https://github.com/user-attachments/assets/57ae578c-1a49-400c-8397-776741840f8c" />
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="982" height="638" alt="Screenshot 2026-05-14 104223" src="https://github.com/user-attachments/assets/346e3110-6481-474b-a574-9dd0aecadb82" />
+
 
 ## 2. SUBTRACTION
 
@@ -109,16 +113,22 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     1200:12             |      1204:00             |
+|     1201:34             |      1205:00             |
+|     1202:12             |                          |
+|     1203:34             |                          |
+------------------------------------------------------
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1308" height="729" alt="image" src="https://github.com/user-attachments/assets/fa8dd17d-26d0-4d75-a0ef-b12aca665fb9" />
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="950" height="515" alt="Screenshot 2026-05-14 104446" src="https://github.com/user-attachments/assets/ee02c46c-360a-4824-b8f8-e3fc700a2692" />
+
 
 ## 3. MULTIPLICATION
 
@@ -158,15 +168,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|    1200:12              |   1204:44                |
+|    1201:34              |   1205:51                |
+|    1202:12              |   1206:97                |
+|    1203:34              |   1207:0A                |
+------------------------------------------------------
 
 #### Manual Calculations
+<img width="1439" height="896" alt="image" src="https://github.com/user-attachments/assets/a11eae11-ddd6-40e7-afe8-ddf113351244" />
 
-(Add your calculation here)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="974" height="516" alt="Screenshot 2026-05-14 104634" src="https://github.com/user-attachments/assets/fe114c31-623f-4eaf-a6cc-86741e8ef14f" />
+
 
 ## 4. DIVISION
 
@@ -203,14 +219,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|      1200:12            |                          |
+|      1201:34            |     1204:01              |
+|      1202:12            |     1205:00              |
+|      1203:34            |     1206:00              |
+------------------------------------------------------
 #### Manual Calculations
 
-(Add your calculation here)
+
+<img width="1274" height="637" alt="image" src="https://github.com/user-attachments/assets/1bb13a27-2c7c-4903-a39c-1bb0f891846b" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="951" height="511" alt="Screenshot 2026-05-14 105324" src="https://github.com/user-attachments/assets/257f61b4-39a9-4435-b015-30130d4c194f" />
+
 
 
 
