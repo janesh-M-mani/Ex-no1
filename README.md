@@ -1,4 +1,4 @@
-<img width="957" height="531" alt="Screenshot 2026-05-14 104846" src="https://github.com/user-attachments/assets/c0d81be7-8b22-4756-81e9-1add7929d1b0" /><img width="957" height="531" alt="Screenshot 2026-05-14 104846" src="https://github.com/user-attachments/assets/35d64592-b8ef-42fe-a816-39b481b634a1" /># Arithmetic-operation-using-8086
+# Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
